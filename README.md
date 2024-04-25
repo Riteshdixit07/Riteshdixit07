@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riteshdixit07
+- 👋 Hi, I’m Ritesh..
 - 👀 I’m interested in working as a software developer.
 - 🌱 I’m currently learning Web Development using the MERN stack.
 - 💞️ I’m looking to collaborate on every project that reaches me.
