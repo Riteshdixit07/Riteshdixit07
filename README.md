@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as a software developer.
 - 🌱 I’m currently learning Web Development using the MERN stack.
 - 💞️ I’m looking to collaborate on every project that reaches me.
-- 📫 How to reach me dixitrishi0401@gmail.com (you got your way.
+- 📫 How to reach me dixitrishi0401@gmail.com (you got your way).
 - ⚡ Fun fact: I'm a beginner and seeking an entry-level.
 
 <!---
