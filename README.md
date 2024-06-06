@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritesh..
-- 👀 I’m interested in working as a software developer.
+- 👀 I’m interested in working as a web developer.
 - 🌱 I’m currently learning Web Development using the MERN stack.
 - 💞️ I’m looking to collaborate on every project that reaches me.
 - 📫 How to reach me dixitrishi0401@gmail.com (you got your way).
